@@ -1,4 +1,8 @@
-# parkinsons detector
+# Parkinsons detector
+![GitHub last commit](https://img.shields.io/github/last-commit/dishax2510/Parkinsons-Detector)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Contributors](https://img.shields.io/github/contributors/dishax2510/Parkinsons-Detector)
+
 Parkinson's disease detection system using python
 This project aims to detect Parkinson's disease using a machine learning model based on a dataset of medical features. The system analyzes input data provided by users and predicts the likelihood of Parkinson's disease. It is developed with a Python-based backend that processes the data and a frontend interface that allows users to submit their data for analysis.
 
